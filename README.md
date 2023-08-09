@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+i'm+35+yo.;Actualy+i'm+in+carrer+transition+to+Font-end+developer.)](https://git.io/typing-svg)
 
 <!--
 **luizcarmoo/luizcarmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
