@@ -15,7 +15,7 @@
 - 💬 Ask me about: HTML / CSS.
 
 
-<!-- Social buttons -->
+<!-- Social buttons 
 <a href="https://linkedin.com/in/luizcarmo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -25,6 +25,7 @@
 <a href="https://instagram.com/luizcarmoo">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+-->
 
 <!-- Skill badge -->
 <div style="display: inline_block">
@@ -34,6 +35,6 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
-  <img align="center" alt="nodejs" src="https://res.cloudinary.com/practicaldev/image/fetch/s--j7m3BVuu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Angular-DD0031%3Flogo%3Dangular%26logoColor%3Dwhite%26style%3Dfor-the-badge">
-  <img align="center" alt="nodejs" src="https://res.cloudinary.com/practicaldev/image/fetch/s--o0thHcDc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Sass-CC6699%3Flogo%3Dsass%26logoColor%3Dwhite%26style%3Dfor-the-badge"/>
+  <img align="center" alt="angular" src="https://res.cloudinary.com/practicaldev/image/fetch/s--j7m3BVuu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Angular-DD0031%3Flogo%3Dangular%26logoColor%3Dwhite%26style%3Dfor-the-badge">
+  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
