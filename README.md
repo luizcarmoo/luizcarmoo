@@ -10,7 +10,7 @@
 
 
 - 🔭 I currently work as a typist.
-- 🌱 I’m currently learning: JS / TS / ANGULAR / REACT / NODE.
+- 🌱 I’m currently learning: JAVA / JS / TS / ANGULAR / REACT / NODE.
 - 👯 I’m looking to collaborate on front-end projects.
 - 💬 Ask me about: HTML / CSS.
 
