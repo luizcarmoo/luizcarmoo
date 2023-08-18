@@ -1,12 +1,11 @@
 <!-- Typing letter -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+i'm+35+yo.;Actualy+i'm+in+carrer+transition+to+Front-end+developer.)](https://git.io/typing-svg)
 
-<!-- GitHub Stats
+<!-- GitHub Stats-->
 [![Luiz Carmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarmoo&show_icons=true&theme=dark)](https://github.com/luizcarmoo/github-readme-stats)
     <a href="https://github.com/luizcarmoo/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarmoo&langs_count=8&theme=dark" alt="Top Langs" width="285px"/>
     </a>
--->
 
 
 - 🔭 I currently work as a typist.
