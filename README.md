@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+I+am+35+yo.;Actualy+i'm+in+carrer+transition+to+Front-end+developer.)](https://git.io/typing-svg)
 
 <!-- GitHub Stats-->
-[![Luiz Carmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B)](https://github.com/luizcarmoo/github-readme-stats)
+[![Luiz Carmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B&rank_icon=github&include_all_commits=true&ring_color=29FF29)](https://github.com/luizcarmoo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B)](https://github.com/luizcarmoo/github-readme-stats)
 
 
