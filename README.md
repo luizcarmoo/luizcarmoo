@@ -3,7 +3,9 @@
 
 <!-- GitHub Stats-->
 [![Luiz Carmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B&rank_icon=github&include_all_commits=true&ring_color=29FF29)](https://github.com/luizcarmoo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B)](https://github.com/luizcarmoo/github-readme-stats)
+   <a href="https://github.com/luizcarmoo/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B" alt="Top Langs" width="285px"/>
+    </a>
 
 
 <!-- About -->
