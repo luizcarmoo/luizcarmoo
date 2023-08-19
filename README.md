@@ -1,11 +1,12 @@
 <!-- Hello world! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+i'm+35+yo.;Actualy+i'm+in+carrer+transition+to+Front-end+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+I+am+35+yo.;Actualy+i'm+in+carrer+transition+to+Front-end+developer.)](https://git.io/typing-svg)
 
 <!-- GitHub Stats-->
-[![Luiz Carmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarmoo&show_icons=true&theme=dark)](https://github.com/luizcarmoo/github-readme-stats)
-    <a href="https://github.com/luizcarmoo/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarmoo&langs_count=8&theme=dark" alt="Top Langs" width="285px"/>
-    </a>
+[![Luiz Carmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarmoo&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B)](https://github.com/luizcarmoo/github-readme-stats)
+<a href="https://github.com/luizcarmoo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarmoo&hide_progress=false&layout=compact&theme=dark&title_color=00FFBB&text_color=00C08B&bg_color=DEG,070D12,0F1010,070D12&border_color=00523B" alt="Top Langs" width="418px"/>
+</a>
+
 
 <!-- About -->
 - 🔭 I currently work as a typist.
