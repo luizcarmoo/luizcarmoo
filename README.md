@@ -30,17 +30,18 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img align="center" alt="angular" src="https://res.cloudinary.com/practicaldev/image/fetch/s--j7m3BVuu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Angular-DD0031%3Flogo%3Dangular%26logoColor%3Dwhite%26style%3Dfor-the-badge">
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div><br/>
+</div>
+<br/>
 
 
 
-<!-- Social buttons -->
+<!-- Social buttons 
 <div align="center">
    <a href="https://linkedin.com/in/luizcarmo">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
 </div>
-<!--
+
 <a href="mailto:luiz.pcarmo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -48,3 +49,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 -->
+<br/>
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+</div>
