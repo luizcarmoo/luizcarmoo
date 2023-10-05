@@ -13,7 +13,7 @@
 <br>
 
 <!-- About -->
-- 🔭 I currently work as a typist.
+- 🔭 Graphic designer in carrer transition to Front-end dev...
 - 🌱 I’m currently learning: JAVA / JS / TS / ANGULAR / REACT / NODE.
 - 👯 I’m looking to collaborate on front-end projects.
 - 🐱‍👤 Ask me about: HTML / CSS.
