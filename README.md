@@ -13,10 +13,11 @@
 <br>
 
 <!-- About -->
-- 🔭 Graphic designer in carrer transition to Front-end dev...
+- 👨🏻‍🎓 Software engineer graduating - Bachelor's degree.
+- 🔭 In carrer transition to Developer.
 - 🌱 I’m currently learning: JAVA / JS / TS / ANGULAR / REACT / NODE.
 - 👯 I’m looking to collaborate on front-end projects.
-- 🐱‍👤 Ask me about: HTML / CSS.
+- 🐱‍👤 Ask me about: HTML / CSS / JS.
 
 ---
 
