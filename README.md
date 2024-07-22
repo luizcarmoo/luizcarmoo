@@ -1,5 +1,5 @@
 <!-- Hello world! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+I+am+36+yo.;Actualy+i'm+in+carrer+transition+to+Front-end+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04F7C4&width=768&lines=Hello+world!;My+name+is+Luiz+and+i+have+36+yo.;Actualy+i'm+in+carrer+transition+to+become+a+Software+Developer.)](https://git.io/typing-svg)
 
 <!-- GitHub Stats-->
 <div align="center">
