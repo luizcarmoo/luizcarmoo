@@ -14,10 +14,9 @@
 
 <!-- About -->
 - 👨🏻‍🎓 Software engineer student - Bachelor's degree.
-- 🔭 In carrer transition to Developer.
-- 🌱 I’m currently learning: JAVA / JS / TS / ANGULAR / REACT / NODE.
-- 👯 I’m looking to collaborate on front-end projects.
-- 🐱‍👤 Ask me about: HTML / CSS / JS.
+- 🌱 I’m currently learning: Java / MySQL / Ruby on Rails.
+- 👯 I’m looking to collaborate on open source projects.
+- 🐱‍👤 Ask me about: HTML / CSS / Git.
 
 ---
 
