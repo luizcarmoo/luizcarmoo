@@ -14,7 +14,7 @@
 
 <!-- About -->
 - 👨🏻‍🎓 Software engineer student - Bachelor's degree.
-- 🌱 I’m currently learning: Java / MySQL / Ruby on Rails.
+- 🌱 I’m currently learning: Java / Spring boot / MySQL / Ruby on Rails / PostgreSQL.
 - 🔎 I’m looking to collaborate on open source projects.
 - 🥷🏻 Ask me about: HTML / CSS / Git.
 
